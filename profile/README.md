@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-- DuckMath is an organization dedicated to the project [duckmath](https://duckmath.org) the site.
+- DuckMath is an organization dedicated to the site [duckmath](https://duckmath.org).
 
 - Contributions are welcome!
