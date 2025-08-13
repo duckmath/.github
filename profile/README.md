@@ -21,6 +21,7 @@
 ### Developer Collaboration
 - Open-source repositories for contributors to add games, fix bugs, and improve features.
 - Actively maintained with regular updates and new content.
+- Updated List of Unblocked Games Sites
 
 ### Game Variety
 - Feature a diverse mix—from nostalgic Flash classics to new HTML5 hits.
