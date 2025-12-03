@@ -56,10 +56,6 @@ Contact us on any of these!
 - Youtube: [duckmath yt](https://www.youtube.com/@duckmathgames)  
 - Instagram: [duckmath insta](https://www.instagram.com/duckmath/reels/)  
 
----
-
-## License
-All DuckMath projects are open-source. See individual repositories for details.
 
 ---
 
